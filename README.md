@@ -121,6 +121,3 @@ Fisier: `angular.json`
 - `DestinationService` salveaza in `localStorage` si initializeaza date seed la prima rulare.
 - `AuthService` foloseste un mock local pentru login/register daca nu exista `apiKey` configurat.
 
-## Note
-
-Acest proiect a fost realizat pentru cursul OF2 — Angular.
